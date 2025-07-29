@@ -38,11 +38,11 @@ This project was developed collaboratively across three two-week sprints, with e
 
 ### My Contributions
 
-- Designed and implemented the initial **yearly calendar GUI** and **monthly zoom/navigation** features  
+- Designed and implemented the initial yearly calendar GUI and monthly zoom/navigation features  
 - Developed core event management: adding, viewing, deleting, and supporting recurring events  
-- Created the **color-coded sidebar** and enabled calendar **theme cycling** for better UI customization  
-- Integrated **weather API** with dynamic city input and live display  
-- Optimized performance by implementing **holiday API caching** to reduce lag  
+- Created the color-coded sidebar and enabled calendar theme cycling for better UI customization  
+- Integrated weather API with dynamic city input and live display  
+- Optimized performance by implementing holiday API caching to reduce lag  
 - Enhanced usability by refining popup event details and compact sidebar formatting  
 - Led debugging efforts and kept project documentation updated throughout the development cycle
 
