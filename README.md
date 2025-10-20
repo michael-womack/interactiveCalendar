@@ -2,7 +2,7 @@
  A Python-based calendar application using tkinter, integrating event management, holiday APIs, and real-time weather data.
  Developed collaboratively to support event tracking, holiday integration, and live weather display.
 
-<img src="interactiveCalendar.png" width="500" alt="Calendar Screenshot">
+
 
 ---
 
