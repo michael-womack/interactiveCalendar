@@ -1,10 +1,8 @@
+# Interactive Calendar
+ A Python-based calendar application using tkinter, integrating event management, holiday APIs, and real-time weather data.
+ Developed collaboratively to support event tracking, holiday integration, and live weather display.
 
-> A Python-based calendar application using tkinter, integrating event management, holiday APIs, and real-time weather data.
-> Developed collaboratively to support event tracking, holiday integration, and live weather display.
-
-# Interactive Calendar App – Project Plan
-
-A Python desktop application that helps users manage events, track holidays, and view weather forecasts in a customizable calendar interface.
+<img src="assets/screenshot.png" width="500" alt="Calendar Screenshot">
 
 ---
 
